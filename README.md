@@ -3,7 +3,6 @@
 I'm MutableName96, welcome to my GitHub profile! Here’s a little about me:
 
 - 🔭 I’m currently studying at the Tecnológico de Morelia
-- 🌱 I’m currently learning C, C++, Java, Postgres
 - 💬 Ask me about War Thunder
 - ⚡ Fun fact: I don’t know how to ride a bike
 
